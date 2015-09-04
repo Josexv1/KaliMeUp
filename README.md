@@ -8,10 +8,12 @@ Kali me Up. Programa en Terminal para actualizar e instalar herramientas a Kali 
 - Arregla el ScreenCast
 - Instala Backbox Anonymous, el cual permite que todo tu trafico pase por la red de Tor. (https://github.com/Josexv1/Kali-Anonymous)
 - Actualiza tu sistema.
+# Uso
+> git clone https://github.com/Josexv1/KaliMeUp.git
 
+> sudo python KaliMeUp.py
 # Licencia
 Puedes hacer uso de este software como deses, de forma privada y comercial.
 
 # Contribuciones
 Puedes dejar tus Issues / Pull Requests y para mejorar el software.
-
