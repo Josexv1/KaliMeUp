@@ -5,7 +5,6 @@ Kali me Up. Programa en Terminal para actualizar e instalar herramientas a Kali 
 - Instalar Repositorios de TOR, Firefox y extras de Kali Sana.
 - Instalar programas para uso diario de Kali Linux 2.0 como LibreOffice, MAT, FileZilla, entre otros.
 - Crea un usuario no root para uso diario.
-- Arregla el ScreenCast
 - Instala [Backbox Anonymous](https://github.com/Josexv1/Kali-Anonymous), el cual permite que todo tu trafico pase por la red de Tor.
 - Actualiza tu sistema.
 
