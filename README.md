@@ -20,8 +20,3 @@ Puedes hacer uso de este software como deses, de forma privada y comercial.
 
 # Contribuciones
 Puedes dejar tus Issues / Pull Requests y para mejorar el software.
-
-# En proceso
- - Necesita root para usar el script. | *listo*
- - Necesita tener ***Kali linux 2.0 Sana*** para usar el script.
- - Usar python-apt en lugar de `os.system`.
